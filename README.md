@@ -46,7 +46,6 @@ This approach leverages diverse learning patterns and improves clinical reliabil
 
 | Model | Framework |
 |-------|-----------|
-| XGBoost Classifier | `xgboost` |
 | Support Vector Classifier (Linear SVM) | `scikit-learn` |
 | CatBoost Classifier | `catboost` |
 | Deep Neural Network (MLP) | `TensorFlow / Keras` |
